@@ -1,5 +1,5 @@
 # Emotiv2OpenSesame
-#### Source code (bash scripts) for the Tutorial on event synchronization between [Emotiv](http://emotiv.com) EEG Testbench and [OpenSesame](http://osdoc.cogsci.nl) open-source graphical experiment builder.
+#### Source code (bash scripts) for the [Tutorial](http://neuroinformatics.gr/node/37) on event synchronization between [Emotiv](http://emotiv.com) EEG Testbench and [OpenSesame](http://osdoc.cogsci.nl) open-source graphical experiment builder.
 
 
 This repository holds exemplary bash scripts that accompany the event triggering synchronization tutorial between *OpenSesame* [1] and *Emotiv EEG Testbench* [2], facilitating the use of *Emotiv EPOC* [3] wireless Brain Computer Interface device in cognitive research experiments.
